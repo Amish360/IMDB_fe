@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Yarn
+yarn-error.log
+
+# npm
+npm-debug.log
+
+# Editor files
+.idea/
+.vscode/
+
+# Linux
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+.cache/
+npm-debug.log
+yarn-error.log
+
+# Jest
+coverage/
+
